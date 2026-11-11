@@ -1,0 +1,4 @@
+description=Partner Directory Receiver
+Type=IFlow
+name=Receiver_1
+OriginBundleSymbolicName=Receiver_1

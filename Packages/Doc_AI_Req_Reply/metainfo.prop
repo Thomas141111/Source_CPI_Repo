@@ -1,0 +1,4 @@
+description=Sending a File to doc ai in sap and getting the confidence score and routing accordingly
+Type=IFlow
+name=Doc_AI_Req_Reply
+OriginBundleSymbolicName=Doc_AI_Req_Reply

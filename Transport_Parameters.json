@@ -1,0 +1,6 @@
+{
+  "base_URL": "https://2f848ed5trial.it-cpitrial03.cfapps.ap21.hana.ondemand.com",
+  "sap_cred": "PROD_SAP_CREDENTIAL_ALIAS",
+  "action": "DEPLOY",
+  "ListOfArtifacts": "Artifact1,Artifact2,Test"
+}

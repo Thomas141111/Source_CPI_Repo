@@ -1,4 +1,0 @@
-description=This receives the message from the queue and processes it
-Type=IFlow
-name=JMS_Receiver
-OriginBundleSymbolicName=JMS_Receiver

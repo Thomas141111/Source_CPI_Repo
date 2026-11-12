@@ -1,5 +1,0 @@
-#Fri Aug 07 12:22:48 UTC 2026
-ListOfArtifacts=Test1,Test2, Test3
-action=Undeploy
-base_URL=https\://930e112atrial.it-cpitrial05.cfapps.us10-001.hana.ondemand.com
-sap_cred=sap_oauth_cred

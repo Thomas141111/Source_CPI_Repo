@@ -1,4 +1,0 @@
-description=This flow receives the payload and sends it to the JMS Queue
-Type=IFlow
-name=JMS_Sender
-OriginBundleSymbolicName=JMS_Sender

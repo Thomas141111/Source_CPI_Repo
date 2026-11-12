@@ -1,5 +1,0 @@
-#Fri Aug 07 12:22:48 UTC 2026
-ListOfArtifacts=Artifact1,Artifact2,Test
-action=DEPLOY
-base_URL=https://2f848ed5trial.it-cpitrial03.cfapps.ap21.hana.ondemand.com
-sap_cred=PROD_SAP_CREDENTIAL_ALIAS

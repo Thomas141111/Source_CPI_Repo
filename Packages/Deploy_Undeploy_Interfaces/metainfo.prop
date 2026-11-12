@@ -1,4 +1,0 @@
-description=Deploying all IFlows inside a package
-Type=IFlow
-name=Deploy_Undeploy_Interfaces
-OriginBundleSymbolicName=Deploy_Undeploy_Interfaces

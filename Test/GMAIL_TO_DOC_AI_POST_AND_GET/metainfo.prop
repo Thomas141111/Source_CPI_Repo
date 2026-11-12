@@ -1,4 +1,0 @@
-description=Sending mutilple File to doc ai by mail and getting the confidence score and routing accordingly
-Type=IFlow
-name=GMAIL_TO_DOC_AI_POST_AND_GET
-OriginBundleSymbolicName=GMAIL_TO_DOC_AI_POST_AND_GET

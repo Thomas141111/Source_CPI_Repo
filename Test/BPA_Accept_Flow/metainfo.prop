@@ -1,4 +1,0 @@
-description=Accept Flow triggered from BPA
-Type=IFlow
-name=BPA_Accept_Flow
-OriginBundleSymbolicName=BPA_Accept_Flow
